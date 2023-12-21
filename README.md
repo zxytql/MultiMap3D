@@ -1,2 +1,12 @@
 # MultiMap3D
-Use ORB-SLAM2 to build a metricmap and localization, fcaf3d to detect 3D objects, and build a tracker database to manage the objects detected. This repo is a fork of https://github.com/ZhouJankin/MultiMap3D
+- Unbuntu version：Ubuntu 20.04
+- ROS：Noetic
+- OpenCV：4.2.0
+- Pangolin：0.5
+
+
+
+Notion Link : https://www.notion.so/zxytql/3D-1d39be3154784919a8cf9e99b27ae82d
+
+
+
