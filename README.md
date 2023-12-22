@@ -22,6 +22,7 @@ git clone https://github.com/zxytql/MultiMap3D.git
 有TUM、KITTI、EuRoC三种数据集，本实验使用TUM数据集，从http://vision.in.tum.de/data/datasets/rgbd-dataset/download下载序列并解压缩。
 
 ```
-.bin/mono_tum Vocabulary/ORBvoc.txt Examples/Monocular/TUMX.yaml PATH_TO_SEQUENCE_FOLDER
+cd /${your_workspace}/src/MultiMap3D/ORB-SLAM2
+./bin/mono_tum Vocabulary/ORBvoc.txt Examples/Monocular/TUMX.yaml PATH_TO_SEQUENCE_FOLDER
 ```
 
