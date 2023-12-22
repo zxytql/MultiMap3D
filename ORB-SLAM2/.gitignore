@@ -228,4 +228,4 @@ CameraTrajectory2.txt
 result.pcd
 Vocabulary/ORBvoc.txt
 Vocabulary/ORBvoc.bin
-Vocabulary/ORBvoc.txt.tar.gz
+# Vocabulary/ORBvoc.txt.tar.gz
